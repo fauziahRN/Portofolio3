@@ -114,7 +114,7 @@ const projects = {
       "Notifikasi tagihan jatuh tempo",
       "Laporan keuangan per periode"
     ],
-    tech: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+    tech: ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "REST API", "JWT"]
   },
   laboratorium: {
     title: "Website Manajemen Laboratorium",
